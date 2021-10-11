@@ -1,1 +1,1 @@
-# Custom-Statistical-Distributions-Package-
+# Custom-Statistical-Distributions-Package
