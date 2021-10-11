@@ -1,4 +1,5 @@
-# Custom-Statistical-Distributions-Package
+<h2>stats_distro</h2>
+<h3>Custom-Statistical-Distributions-Package</h3>
 <ul>
   <li> The Python package can be downloaded from <a href="https://pypi.org/project/stats-distro/">stats-distro PyPi </a> or from terminal using command <strong>pip install stats-distro</strong>
     </li>
