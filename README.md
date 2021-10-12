@@ -10,4 +10,7 @@
   <li> The functions can help plot Histogram, Probability Density function and even add two Gaussian Distributions.
     </li>
   
+  <li> Other way of using these distributions can be throughing cloning this repository in your local computer and then extracting the folder, the functions can be used from the library itself using <strong>from distributions import Binomial, Gaussian</strong>
+    </li>
+  
   </ul>
