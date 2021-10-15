@@ -13,6 +13,8 @@ class Distribution:
 		
 		self.mean = mu
 		self.stdev = sigma
+		
+		
 		self.data = []
 
 
